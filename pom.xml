@@ -14,7 +14,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-   depen
     <dependencies>
         <dependency>
         <groupId>org.projectlombok</groupId>
